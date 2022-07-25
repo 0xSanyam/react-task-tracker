@@ -17,13 +17,13 @@ yarn start
 ### Run the JSON server (http://localhost:5000)
 
 ```
-yarn run server
+yarn server
 ```
 
 ### To build for production
 
 ```
-yarn run build
+yarn build
 ```
 
 ![Interaction](/assets/interaction.gif)
